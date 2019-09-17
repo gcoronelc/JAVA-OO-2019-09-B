@@ -4,7 +4,7 @@
 
 - Lugar: SistemasUNI
 - Horario: MARTES y JUEVES DE 19 a 22 Horas
-- Inicio: 17-SET-2017
+- Inicio: 17-SET-2019
 - Duración: 24 Horas
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Youtube: https://www.youtube.com/watch?v=EKlwF12-l9Y&list=PLIRq7nByT7aRuBgD4UVRjrcUZFM8Fkbut
