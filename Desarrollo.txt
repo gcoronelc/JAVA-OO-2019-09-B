@@ -4,15 +4,26 @@ Clase 01
 2.- Revisar Java
 3.- Estructuras Secuenciales
 4.- Estrucuturas condicionales
-5.- Estrucuturas de bucle
-6.- Programación en capas y servicios
-7.- Clases y objetos
+
 
 Clase 02
 ----------------------------
+1.- Estrucuturas de bucle
+2.- Programación en capas y servicios
+3.- Clases y objetos
+4.- Proyecto ejemplo
+
+Clase 03
+----------------------------------------
 1.- Miembros de Clase 
 2.- DTO
 3.- Proyecto aplicativo
+
+
+
+
+
+
 4.- Sobrecarga
 5.- Manejo de paneles
 6.- Proyecto aplicativo
