@@ -12,7 +12,7 @@ public class EduTecView extends javax.swing.JFrame {
 	
 	private void cargarPaneles(){
 		contenedor.add("2 NUM", new Panel2Num());
-		contenedor.add("3 NUM", new Panel2Num());
+		contenedor.add("3 NUM", new Panel3Num());
 		contenedor.add("4 NUM", new Panel4Num());
 		contenedor.add("5 NUM", new Panel5Num());
 	}
