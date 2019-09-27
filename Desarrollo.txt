@@ -23,12 +23,11 @@ Clase 03
 Clase 04
 --------------------------------------------
 1.- Sobrecarga
+2.- Manejo de paneles
+3.- Proyecto aplicativo
 
-5.- Manejo de paneles
-6.- Proyecto aplicativo
 
-
-Clase 03
+Clase 05
 ----------------------------------
 1.- Alcance de clase y de instancia
 2.- Ejemplos
