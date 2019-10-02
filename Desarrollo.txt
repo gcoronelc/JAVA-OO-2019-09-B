@@ -33,3 +33,8 @@ Clase 05
 2.- Ejemplos
 3.- Herencia
 
+
+Clase 06
+----------------------------------
+1.- Herencia
+
