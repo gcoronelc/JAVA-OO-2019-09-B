@@ -1,0 +1,4 @@
+https://github.com/gcoronelc/JAVA-OO-2019-09-B/blob/master/Investigacion.txt
+https://medium.com/el-acordeon-del-programador/logs-en-java-con-java-util-logging-d344ae2ba7bc
+
+https://www.youtube.com/watch?v=W0_Man88Z3Q

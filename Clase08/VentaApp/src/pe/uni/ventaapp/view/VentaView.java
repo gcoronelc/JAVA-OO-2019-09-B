@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import pe.uni.ventaapp.controller.VentaController;
 import pe.uni.ventaapp.dto.ConceptoDto;
+import pe.uni.ventaapp.exceptions.ValorVentaException;
 
 /**
  *
@@ -205,6 +206,10 @@ public class VentaView extends javax.swing.JFrame {
 			// Datos
 			tipo = cboTipo.getSelectedItem().toString();
 			total = Double.parseDouble(txtTotal.getText());
+			// Validar
+			if( total <= 0 ){
+				throw new ValorVentaException("El total debe ser positivo.");
+			}
 			// Proceso
 			reporte = control.procesar(tipo, total);
 			// Reporte
@@ -218,6 +223,11 @@ public class VentaView extends javax.swing.JFrame {
 		} catch (NumberFormatException e) {
 			JOptionPane.showMessageDialog(rootPane, "Ingresa un número.", 
 							"ERROR", JOptionPane.ERROR_MESSAGE);
+		} catch (ValorVentaException e) {
+			JOptionPane.showMessageDialog(rootPane, e.getMessage(), 
+							"ERROR", JOptionPane.ERROR_MESSAGE);
+		} finally {
+			System.out.println("Yo siempre me ejecuto.");
 		}
 
 

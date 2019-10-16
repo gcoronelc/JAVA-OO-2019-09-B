@@ -1,0 +1,6 @@
+15/10/2019 06:13:03.381 - [pe.uni.project.logprueba.Main.main] - [INFO] - Aplicacion iniciada
+
+15/10/2019 06:13:05.913 - [pe.uni.project.view.PedidoView2.btnprocesarActionPerformed] - [SEVERE] - Se proceso el importe de: 400.0
+
+15/10/2019 06:13:06.445 - [pe.uni.project.view.PedidoView2.btnsalirActionPerformed] - [INFO] - Aplicacion cerrada
+
